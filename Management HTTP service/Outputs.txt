@@ -1,1 +1,7 @@
+Output in PostMan :
 
+![image](https://user-images.githubusercontent.com/87435152/235308947-6bbdf164-fda3-449d-9915-eab4b9ad0f8b.png)
+
+Output in Google :
+
+![image](https://user-images.githubusercontent.com/87435152/235308986-feeb6703-7576-45c4-b330-61eec3473d94.png)
